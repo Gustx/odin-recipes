@@ -1,0 +1,60 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    background-color: lightcyan;
+    
+}
+body {
+    
+    font-size: 25px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 70px;
+}
+
+h1, h2 {
+
+    text-decoration: underline;
+}
+
+
+.titulo-2 {
+
+    font: 100;
+}
+.descripcion
+{
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
+
+.boton {
+
+    font-size: 30px;
+}
+
+a {
+    background-color: transparent;
+    text-decoration: none ;
+    color: black;
+    font-size: x-large;
+    font-style: italic;
+
+}
+.boton.olimpico {
+    background-color: red;
+}
+
+.boton.titan {
+    background-color: blue;
+}
+
+.boton.caballero {
+    background-color: yellowgreen;
+    color: white;
+}

@@ -1,0 +1,49 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    background-color: yellowgreen;
+    }
+    
+    body {
+    
+        font-size: 25px;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 70px;
+    }
+
+    h1, h2 {
+
+        text-decoration: underline;
+    }
+
+    .titulo-2 {
+
+        font: 100;
+    }
+
+    .img {
+        text-align: center;
+
+    }
+
+    .descripcion {
+
+        text-align: center;
+        
+    }
+
+    .boton-regresar {
+
+        font-size: 30px;
+    }
+
+    a {
+        background-color: transparent;
+        text-decoration: none ;
+        color: black;
+        font-size: x-large;
+        font-style: italic;
+    }
