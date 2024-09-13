@@ -19,10 +19,6 @@
         text-decoration: underline;
     }
 
-    .titulo-2 {
-
-        font: 100;
-    }
 
     .img {
         text-align: center;
@@ -38,6 +34,7 @@
     .boton-regresar {
 
         font-size: 30px;
+        background-color: lightcyan;
     }
 
     a {
