@@ -1,12 +1,26 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-   
-    background-color: lightcyan;
     
 }
-body {
+
     
+.contenedor {
+    background-color: #E7CCCC;
+    margin: 20px;
+    padding: 50px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+div {
+    border-radius: 30px;
+}
+    
+body {
+  
     font-size: 25px;
+    margin:0 20%;
+    padding: 20px;
 }
 
 h1 {
@@ -19,7 +33,19 @@ h1, h2 {
     text-decoration: underline;
 }
 
+.gif {
+    text-align: center;
+    margin: 10px;
+   
+}
+.contenedor-descripcion {
+    display: inline-block;
+    background-color:rgb(195, 241, 175);
+    margin: 20px;
+    padding: 20px;
+    
 
+}
 
 
 .descripcion
@@ -27,8 +53,19 @@ h1, h2 {
     text-align: center;
 }
 
-.gif {
-    text-align: center;
+.contenedor-mazos {
+    display: inline-block;
+    background-color:rgb(195, 241, 175);
+    margin: 20px;
+    padding: 20px;
+}
+
+.contenedor-lista {
+    display: block;
+    background-color:rgb(195, 241, 175);
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
 }
 
 .boton {
